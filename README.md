@@ -1,4 +1,4 @@
-# MageMontreal Developer Test
+# MageMontreal Developer Test 2
 Welcome to MageMontreal Developer Test. In advance, we would like to thank you for participating and contributing in this process.
 
 ## Common Steps
